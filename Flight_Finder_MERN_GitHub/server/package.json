@@ -1,0 +1,1 @@
+{"name":"flight-finder-api","version":"1.0.0","type":"module","scripts":{"start":"node index.js","test":"node --test search.test.js","seed":"node seed.js"},"dependencies":{"express":"^4.21.2","mongoose":"^8.9.0","cors":"^2.8.5","dotenv":"^16.4.7"}}
